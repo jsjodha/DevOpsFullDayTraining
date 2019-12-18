@@ -3,7 +3,7 @@
 
 
 
-# Overview of DevOps
+### Overview of DevOps
 >Learning Objectives: In this module you will be introduced to DevOps environment.
 
 Topics:
@@ -16,7 +16,7 @@ Topics:
 
  
 
-# Version Control with Git
+### Version Control with Git
 >Learning Objective: In this module you will be introduced to git  environment.
 
 Topics:
@@ -32,7 +32,7 @@ Hands-on:
 
  
 
-# Package management with Nuget /Npm
+### Package management with Nuget /Npm
 >Learning Objective: In this module you will be introduced to packaging and shared the versioned source and binaries.
 
 Topics:
@@ -47,7 +47,7 @@ Hands-on:
 
  
 
-# Git, TeamCity Integration
+### Git, TeamCity Integration
 >Learning Objective: In this module, you will learn about the different actions performed through git and will be introduced to Teamcity
 
 Topics:
@@ -63,7 +63,7 @@ Hands-on:
 
  
 
-# Continuous Integration using Teamcity
+### Continuous Integration using Teamcity
 >Learning Objective: In this module, you will know how to perform Continuous Integration using TeamCity by building and automating test cases using Maven.
 
 
@@ -78,7 +78,7 @@ Hands-on:
 * Create a pipeline script to deploy an application over the tomcat server
  
 
-# Continuous Testing
+### Continuous Testing
 >Learning Objective: In this module, you will learn about testing your application code and how to automate your test cases for testing applications objects.  .
 
 Topics:
@@ -94,7 +94,7 @@ Hands-on:
 
  
 
-# Continuous Deployment: Containerization with Docker
+### Continuous Deployment: Containerization with Docker
 >Learning Objective: This module introduces Docker to readers, the core concepts and technology behind Docker. Learn in detail about container and various operations performed on it.
 
 
@@ -114,7 +114,7 @@ Hands-on:
 * Create and Implement docker images and containers 
 
  
-# Configuration Management with Ansible
+### Configuration Management with Ansible
 >Learning Objective: In this module, you will learn to install Ansible and configure ansible roles. You will also learn to write playbooks and finally execute ad-commands using Ansible.
 
 Topics:
@@ -129,7 +129,7 @@ Hands-on:
 * Write Playbooks
 * Execute adhoc commands
  
-# Containerization using Kubernetes
+### Containerization using Kubernetes
 >Learning Objective: In this module, you will learn the basics of Kubernetes and its integration with Docker.
 
 Topics:
@@ -150,7 +150,7 @@ Hands-on:
 * Deploying an app through Kubernetes Dashboard
 * Rolling updates in Kubernetes
  
-# Continuous Monitoring with Nagios
+### Continuous Monitoring with Nagios
 >Learning Objective: Learn how to continuously monitor your tasks using various plugins and implementing Nagios Commands.
 
 Topics:
@@ -164,14 +164,11 @@ Hands-on:
 * Monitoring of different servers using Nagios 
 
  
-## What will you learn as a part of this course?
+##### What will you learn as a part of this course?
 >DevOps improves collaboration and productivity by automating infrastructure and workflows and continuously measuring applications performance. In this course you will learn about Version Controlling, Code Automation, Continuous Integration, Continuous  Deployment, Configuration Management, and Monitoring of application.
+  
 
- 
-
- 
-
-## Who should go for this training?
+##### Who should go for this training?
 >The following professionals can go for this course:
 
 * Software Tester
@@ -182,7 +179,7 @@ Hands-on:
 * Integration Specialist
  
 
-## What are the skills that you will be learning with our DevOps course?
+##### What are the skills that you will be learning with our DevOps course?
 >After completing this Devops Certification Training, you should be able to:
 
 * Manage and keep a track of different versions of the source code using Git
